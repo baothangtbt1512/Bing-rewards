@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Tài khoản 1",
+    "profile_dir": "chrome_profiles/acc_1",
+    "enabled": true,
+    "proxy": ""
+  },
+  {
+    "id": 2,
+    "name": "Tài khoản 2",
+    "profile_dir": "chrome_profiles/acc_2",
+    "enabled": true,
+    "proxy": ""
+  },
+  {
+    "id": 3,
+    "name": "Tài khoản 3",
+    "profile_dir": "chrome_profiles/acc_3",
+    "enabled": true,
+    "proxy": ""
+  },
+  {
+    "id": 4,
+    "name": "Tài khoản 4",
+    "profile_dir": "chrome_profiles/acc_4",
+    "enabled": true,
+    "proxy": ""
+  },
+  {
+    "id": 5,
+    "name": "Tài khoản 5",
+    "profile_dir": "chrome_profiles/acc_5",
+    "enabled": true,
+    "proxy": ""
+  },
+  {
+    "id": 6,
+    "name": "Tài khoản 6",
+    "profile_dir": "chrome_profiles/acc_6",
+    "enabled": true,
+    "proxy": ""
+  }
+]

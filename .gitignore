@@ -1,0 +1,11 @@
+# Sensitive browser profiles & login sessions
+chrome_profiles/
+
+# Android SDK & intermediate build artifacts
+android_source/.sdk/
+android_source/android-app/build/
+*.idsig
+
+# Python cache
+__pycache__/
+*.py[cod]
